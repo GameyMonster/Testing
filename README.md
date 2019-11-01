@@ -1,9 +1,3 @@
 # Testing
 
-public class Demo{
-public static void main(String[] args){
-System.out.print("Hello World!");
-
-}
-
-}
+This is a Demo.. If you see this it means it Works!
